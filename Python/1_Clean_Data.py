@@ -24,6 +24,8 @@ df_data.loc[filt_swap,'evento_nombre'] = df_aux.loc[filt_swap,'semanas_epidemiol
 # removed space from clasifications that have 'Dengue ' 
 # changes them for 'Dengue'
 df_data = df_data.replace('Dengue ','Dengue')
+# and also renames Zika cases
+df_data = df_data.replace('Enfermedad por Virus del Zika','Zika')
 
 # check for processed files directory
 if not os.path.exists(processed_files):

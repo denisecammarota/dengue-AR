@@ -10,15 +10,20 @@ import glob
 
 raw_files = glob.glob('./Data/raw/*')
 processed_files = './Data/processed/'
-final_file = processed_files + 'processed_cases.csv'
+input_file = processed_files + 'processed_cleaned_cases.csv'
+dengue_file = processed_files + 'dengue_cases.csv'
+zika_file = processed_files + 'zika_cases.csv'
 
 # read total data of cases
-df_data = pd.read_csv(final_file)
-
-# filter registers that have a evento_nombre wrong
+df_data = pd.read_csv(input_file)
 
 # separate dengue cases
-
+df_dengue = df_data[df_data['evento_nombre'] == 'Dengue']
 
 # separate zika cases
+df_zika = df_data[df_data['evento_nombre'] == 'Zika']
+
+# saving zika and dengue registers
+df_dengue.to_csv(dengue_file, index = False)
+df_zika.to_csv(zika_file, index = False)
 

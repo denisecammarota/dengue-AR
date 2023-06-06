@@ -2344,40 +2344,6 @@ departamento_id,departamento_nombre,provincia_id,provincia_nombre,año,semanas_e
 90084,CAPITAL,14,Córdoba,2018,16,Dengue,11,de 45 a 64 anos,1.0
 90084,CAPITAL,14,Córdoba,2018,17,Dengue,11,de 45 a 65 anos,1.0
 90119,Yerba Buena,90,Tucumán,2018,20,Dengue,6,de 10 a 14 anos,1.0
-427,La Matanza,6,Buenos Aires,2018,11,Zika,11,Mayor o igual de 65 anos,1.0
-28,Capital,66,Salta,2018,23,Zika,10,De 45 a 64 anos,1.0
-56,Grl. José de San Martín,66,Salta,2018,10,Zika,10,De 35 a 44 anos,1.0
-56,Grl. José de San Martín,66,Salta,2018,11,Zika,9,De 25 a 34 anos,1.0
-56,Grl. José de San Martín,66,Salta,2018,12,Zika,8,De 20 a 24 anos,1.0
-56,Grl. José de San Martín,66,Salta,2018,12,Zika,2,Igual a 1 ano,1.0
-56,Grl. José de San Martín,66,Salta,2018,14,Zika,9,De 25 a 34 anos,2.0
-56,Grl. José de San Martín,66,Salta,2018,15,Zika,9,De 25 a 34 anos,1.0
-56,Grl. José de San Martín,66,Salta,2018,15,Zika,10,De 45 a 64 anos,1.0
-56,Grl. José de San Martín,66,Salta,2018,16,Zika,9,De 25 a 34 anos,1.0
-56,Grl. José de San Martín,66,Salta,2018,16,Zika,10,De 35 a 44 anos,1.0
-56,Grl. José de San Martín,66,Salta,2018,19,Zika,1,Menor que 1 ano,1.0
-56,Grl. José de San Martín,66,Salta,2018,19,Zika,8,De 20 a 24 anos,1.0
-56,Grl. José de San Martín,66,Salta,2018,19,Zika,10,De 45 a 64 anos,1.0
-56,Grl. José de San Martín,66,Salta,2018,20,Zika,3,De 13 a 24 meses,1.0
-56,Grl. José de San Martín,66,Salta,2018,20,Zika,4,De 2 a 4 anos,1.0
-56,Grl. José de San Martín,66,Salta,2018,20,Zika,9,De 25 a 34 anos,1.0
-56,Grl. José de San Martín,66,Salta,2018,21,Zika,5,De 5 a 9 anos,1.0
-56,Grl. José de San Martín,66,Salta,2018,22,Zika,7,De 15 a 19 anos,1.0
-56,Grl. José de San Martín,66,Salta,2018,22,Zika,10,De 45 a 64 anos,1.0
-56,Grl. José de San Martín,66,Salta,2018,22,Zika,11,Mayor o igual de 65 anos,1.0
-126,Orán,66,Salta,2018,18,Zika,7,De 15 a 19 anos,1.0
-126,Orán,66,Salta,2018,18,Zika,9,De 25 a 34 anos,1.0
-126,Orán,66,Salta,2018,19,Zika,7,De 15 a 19 anos,2.0
-126,Orán,66,Salta,2018,19,Zika,8,De 20 a 24 anos,1.0
-126,Orán,66,Salta,2018,19,Zika,9,De 25 a 34 anos,2.0
-126,Orán,66,Salta,2018,20,Zika,5,De 5 a 9 anos,1.0
-126,Orán,66,Salta,2018,20,Zika,7,De 15 a 19 anos,1.0
-126,Orán,66,Salta,2018,20,Zika,8,De 20 a 24 anos,1.0
-126,Orán,66,Salta,2018,20,Zika,11,Mayor o igual de 65 anos,1.0
-126,Orán,66,Salta,2018,21,Zika,9,De 25 a 34 anos,1.0
-126,Orán,66,Salta,2018,22,Zika,6,De 10 a 14 anos,1.0
-126,Orán,66,Salta,2018,23,Zika,7,De 15 a 19 anos,1.0
-126,Orán,66,Salta,2018,23,Zika,9,De 25 a 34 anos,1.0
 02001,COMUNA 5,2,CABA,2019,3,Dengue,6.0,De 15 a 19 anos,1.0
 02001,COMUNA 1,2,CABA,2019,7,Dengue,6.0,De 15 a 19 anos,1.0
 02001,COMUNA 1,2,CABA,2019,7,Dengue,8.0,De 25 a 34 anos,1.0
@@ -16457,37 +16423,3 @@ departamento_id,departamento_nombre,provincia_id,provincia_nombre,año,semanas_e
 147,Río Hondo,86,Santiago del Estero,2018,18,Dengue,4,De 2 a 4 años,1.0
 21,Chicligasta,90,Tucumán,2018,14,Dengue,10,De 35 a 44 años,1.0
 105,Tafí Viejo,90,Tucumán,2018,22,Dengue,12,Sin Especificar,1.0
-427,La Matanza,6,Buenos Aires,2018,11,Zika,11,Mayor o igual de 65 años,1.0
-28,Capital,66,Salta,2018,23,Zika,10,De 45 a 64 años,1.0
-56,Grl. José de San Martín,66,Salta,2018,10,Zika,10,De 35 a 44 años,1.0
-56,Grl. José de San Martín,66,Salta,2018,11,Zika,9,De 25 a 34 años,1.0
-56,Grl. José de San Martín,66,Salta,2018,12,Zika,8,De 20 a 24 años,1.0
-56,Grl. José de San Martín,66,Salta,2018,12,Zika,2,Igual a 1 año,1.0
-56,Grl. José de San Martín,66,Salta,2018,14,Zika,9,De 25 a 34 años,2.0
-56,Grl. José de San Martín,66,Salta,2018,15,Zika,9,De 25 a 34 años,1.0
-56,Grl. José de San Martín,66,Salta,2018,15,Zika,10,De 45 a 64 años,1.0
-56,Grl. José de San Martín,66,Salta,2018,16,Zika,9,De 25 a 34 años,1.0
-56,Grl. José de San Martín,66,Salta,2018,16,Zika,10,De 35 a 44 años,1.0
-56,Grl. José de San Martín,66,Salta,2018,19,Zika,1,Menor que 1 año,1.0
-56,Grl. José de San Martín,66,Salta,2018,19,Zika,8,De 20 a 24 años,1.0
-56,Grl. José de San Martín,66,Salta,2018,19,Zika,10,De 45 a 64 años,1.0
-56,Grl. José de San Martín,66,Salta,2018,20,Zika,3,De 13 a 24 meses,1.0
-56,Grl. José de San Martín,66,Salta,2018,20,Zika,4,De 2 a 4 años,1.0
-56,Grl. José de San Martín,66,Salta,2018,20,Zika,9,De 25 a 34 años,1.0
-56,Grl. José de San Martín,66,Salta,2018,21,Zika,5,De 5 a 9 años,1.0
-56,Grl. José de San Martín,66,Salta,2018,22,Zika,7,De 15 a 19 años,1.0
-56,Grl. José de San Martín,66,Salta,2018,22,Zika,10,De 45 a 64 años,1.0
-56,Grl. José de San Martín,66,Salta,2018,22,Zika,11,Mayor o igual de 65 años,1.0
-126,Orán,66,Salta,2018,18,Zika,7,De 15 a 19 años,1.0
-126,Orán,66,Salta,2018,18,Zika,9,De 25 a 34 años,1.0
-126,Orán,66,Salta,2018,19,Zika,7,De 15 a 19 años,2.0
-126,Orán,66,Salta,2018,19,Zika,8,De 20 a 24 años,1.0
-126,Orán,66,Salta,2018,19,Zika,9,De 25 a 34 años,2.0
-126,Orán,66,Salta,2018,20,Zika,5,De 5 a 9 años,1.0
-126,Orán,66,Salta,2018,20,Zika,7,De 15 a 19 años,1.0
-126,Orán,66,Salta,2018,20,Zika,8,De 20 a 24 años,1.0
-126,Orán,66,Salta,2018,20,Zika,11,Mayor o igual de 65 años,1.0
-126,Orán,66,Salta,2018,21,Zika,9,De 25 a 34 años,1.0
-126,Orán,66,Salta,2018,22,Zika,6,De 10 a 14 años,1.0
-126,Orán,66,Salta,2018,23,Zika,7,De 15 a 19 años,1.0
-126,Orán,66,Salta,2018,23,Zika,9,De 25 a 34 años,1.0
