@@ -1,0 +1,528 @@
+﻿provincia_nombre,provincia_codigo,departamento_nombre,departamento_codigo,total_codigo
+Ciudad Autónoma de Buenos Aires,02,Comuna 1,001,02001
+Ciudad Autónoma de Buenos Aires,02,Comuna 2,002,02002
+Ciudad Autónoma de Buenos Aires,02,Comuna 3,003,02003
+Ciudad Autónoma de Buenos Aires,02,Comuna 4,004,02004
+Ciudad Autónoma de Buenos Aires,02,Comuna 5,005,02005
+Ciudad Autónoma de Buenos Aires,02,Comuna 6,006,02006
+Ciudad Autónoma de Buenos Aires,02,Comuna 7,007,02007
+Ciudad Autónoma de Buenos Aires,02,Comuna 8,008,02008
+Ciudad Autónoma de Buenos Aires,02,Comuna 9,009,02009
+Ciudad Autónoma de Buenos Aires,02,Comuna 10,010,02010
+Ciudad Autónoma de Buenos Aires,02,Comuna 11,011,02011
+Ciudad Autónoma de Buenos Aires,02,Comuna 12,012,02012
+Ciudad Autónoma de Buenos Aires,02,Comuna 13,013,02013
+Ciudad Autónoma de Buenos Aires,02,Comuna 14,014,02014
+Ciudad Autónoma de Buenos Aires,02,Comuna 15,015,02015
+Buenos Aires,06,Adolfo Alsina,007,06007
+Buenos Aires,06,Adolfo Gonzales Chaves,014,06014
+Buenos Aires,06,Alberti,021,06021
+Buenos Aires,06,Almirante Brown,028,06028
+Buenos Aires,06,Avellaneda,035,06035
+Buenos Aires,06,Ayacucho,042,06042
+Buenos Aires,06,Azul,049,06049
+Buenos Aires,06,Bahía Blanca,056,06056
+Buenos Aires,06,Balcarce,063,06063
+Buenos Aires,06,Baradero,070,06070
+Buenos Aires,06,Arrecifes,077,06077
+Buenos Aires,06,Benito Juárez,084,06084
+Buenos Aires,06,Berazategui,091,06091
+Buenos Aires,06,Berisso,098,06098
+Buenos Aires,06,Bolívar,105,06105
+Buenos Aires,06,Bragado,112,06112
+Buenos Aires,06,Brandsen,119,06119
+Buenos Aires,06,Campana,126,06126
+Buenos Aires,06,Cañuelas,134,06134
+Buenos Aires,06,Capitán Sarmiento,140,06140
+Buenos Aires,06,Carlos Casares,147,06147
+Buenos Aires,06,Carlos Tejedor,154,06154
+Buenos Aires,06,Carmen de Areco,161,06161
+Buenos Aires,06,Castelli,168,06168
+Buenos Aires,06,Colón,175,06175
+Buenos Aires,06,Coronel de Marina Leonardo Rosales,182,06182
+Buenos Aires,06,Coronel Dorrego,189,06189
+Buenos Aires,06,Coronel Pringles,196,06196
+Buenos Aires,06,Coronel Suárez,203,06203
+Buenos Aires,06,Chacabuco,210,06210
+Buenos Aires,06,Chascomús,217,06217
+Buenos Aires,06,Chivilcoy,224,06224
+Buenos Aires,06,Daireaux,231,06231
+Buenos Aires,06,Dolores,238,06238
+Buenos Aires,06,Ensenada,245,06245
+Buenos Aires,06,Escobar,252,06252
+Buenos Aires,06,Esteban Echeverría,260,06260
+Buenos Aires,06,Exaltación de la Cruz,266,06266
+Buenos Aires,06,Ezeiza,270,06270
+Buenos Aires,06,Florencio Varela,274,06274
+Buenos Aires,06,Florentino Ameghino,277,06277
+Buenos Aires,06,General Alvarado,280,06280
+Buenos Aires,06,General Alvear,287,06287
+Buenos Aires,06,General Arenales,294,06294
+Buenos Aires,06,General Belgrano,301,06301
+Buenos Aires,06,General Guido,308,06308
+Buenos Aires,06,General Juan Madariaga,315,06315
+Buenos Aires,06,General La Madrid,322,06322
+Buenos Aires,06,General Las Heras,329,06329
+Buenos Aires,06,General Lavalle,336,06336
+Buenos Aires,06,General Paz,343,06343
+Buenos Aires,06,General Pinto,351,06351
+Buenos Aires,06,General Pueyrredón,357,06357
+Buenos Aires,06,General Rodríguez,364,06364
+Buenos Aires,06,General San Martín,371,06371
+Buenos Aires,06,General Viamonte,385,06385
+Buenos Aires,06,General Villegas,392,06392
+Buenos Aires,06,Guaminí,399,06399
+Buenos Aires,06,Hipólito Yrigoyen,406,06406
+Buenos Aires,06,Hurlingham,408,06408
+Buenos Aires,06,Ituzaingó,410,06410
+Buenos Aires,06,José C. Paz,412,06412
+Buenos Aires,06,Junín,413,06413
+Buenos Aires,06,La Costa,420,06420
+Buenos Aires,06,La Matanza,427,06427
+Buenos Aires,06,Lanús,434,06434
+Buenos Aires,06,La Plata,441,06441
+Buenos Aires,06,Laprida,448,06448
+Buenos Aires,06,Las Flores,455,06455
+Buenos Aires,06,Leandro N. Alem,462,06462
+Buenos Aires,06,Lincoln,469,06469
+Buenos Aires,06,Lobería,476,06476
+Buenos Aires,06,Lobos,483,06483
+Buenos Aires,06,Lomas de Zamora,490,06490
+Buenos Aires,06,Luján,497,06497
+Buenos Aires,06,Magdalena,505,06505
+Buenos Aires,06,Maipú,511,06511
+Buenos Aires,06,Malvinas Argentinas,515,06515
+Buenos Aires,06,Mar Chiquita,518,06518
+Buenos Aires,06,Marcos Paz,525,06525
+Buenos Aires,06,Mercedes,532,06532
+Buenos Aires,06,Merlo,539,06539
+Buenos Aires,06,Monte,547,06547
+Buenos Aires,06,Monte Hermoso,553,06553
+Buenos Aires,06,Moreno,560,06560
+Buenos Aires,06,Morón,568,06568
+Buenos Aires,06,Navarro,574,06574
+Buenos Aires,06,Necochea,581,06581
+Buenos Aires,06,9 de Julio,588,06588
+Buenos Aires,06,Olavarría,595,06595
+Buenos Aires,06,Patagones,602,06602
+Buenos Aires,06,Pehuajó,609,06609
+Buenos Aires,06,Pellegrini,616,06616
+Buenos Aires,06,Pergamino,623,06623
+Buenos Aires,06,Pila,630,06630
+Buenos Aires,06,Pilar,638,06638
+Buenos Aires,06,Pinamar,644,06644
+Buenos Aires,06,Presidente Perón,648,06648
+Buenos Aires,06,Puán,651,06651
+Buenos Aires,06,Punta Indio,655,06655
+Buenos Aires,06,Quilmes,658,06658
+Buenos Aires,06,Ramallo,665,06665
+Buenos Aires,06,Rauch,672,06672
+Buenos Aires,06,Rivadavia,679,06679
+Buenos Aires,06,Rojas,686,06686
+Buenos Aires,06,Roque Pérez,693,06693
+Buenos Aires,06,Saavedra,700,06700
+Buenos Aires,06,Saladillo,707,06707
+Buenos Aires,06,Salto,714,06714
+Buenos Aires,06,Salliqueló,721,06721
+Buenos Aires,06,San Andrés de Giles,728,06728
+Buenos Aires,06,San Antonio de Areco,735,06735
+Buenos Aires,06,San Cayetano,742,06742
+Buenos Aires,06,San Fernando,749,06749
+Buenos Aires,06,San Isidro,756,06756
+Buenos Aires,06,San Miguel,760,06760
+Buenos Aires,06,San Nicolás,763,06763
+Buenos Aires,06,San Pedro,770,06770
+Buenos Aires,06,San Vicente,778,06778
+Buenos Aires,06,Suipacha,784,06784
+Buenos Aires,06,Tandil,791,06791
+Buenos Aires,06,Tapalqué,798,06798
+Buenos Aires,06,Tigre,805,06805
+Buenos Aires,06,Tordillo,812,06812
+Buenos Aires,06,Tornquist,819,06819
+Buenos Aires,06,Trenque Lauquen,826,06826
+Buenos Aires,06,Tres Arroyos,833,06833
+Buenos Aires,06,Tres de Febrero,840,06840
+Buenos Aires,06,Tres Lomas,847,06847
+Buenos Aires,06,25 de Mayo,854,06854
+Buenos Aires,06,Vicente López,861,06861
+Buenos Aires,06,Villa Gesell,868,06868
+Buenos Aires,06,Villarino,875,06875
+Buenos Aires,06,Zárate,882,06882
+Catamarca,10,Ambato,007,10007
+Catamarca,10,Ancasti,014,10014
+Catamarca,10,Andalgalá,021,10021
+Catamarca,10,Antofagasta de la Sierra,028,10028
+Catamarca,10,Belén,035,10035
+Catamarca,10,Capayán,042,10042
+Catamarca,10,Capital,049,10049
+Catamarca,10,El Alto,056,10056
+Catamarca,10,Fray Mamerto Esquiú,063,10063
+Catamarca,10,La Paz,070,10070
+Catamarca,10,Paclín,077,10077
+Catamarca,10,Pomán,084,10084
+Catamarca,10,Santa María,091,10091
+Catamarca,10,Santa Rosa,098,10098
+Catamarca,10,Tinogasta,105,10105
+Catamarca,10,Valle Viejo,112,10112
+Córdoba,14,Calamuchita,007,14007
+Córdoba,14,Capital,014,14014
+Córdoba,14,Colón,021,14021
+Córdoba,14,Cruz del Eje,028,14028
+Córdoba,14,General Roca,035,14035
+Córdoba,14,General San Martín,042,14042
+Córdoba,14,Ischilín,049,14049
+Córdoba,14,Juárez Celman,056,14056
+Córdoba,14,Marcos Juárez,063,14063
+Córdoba,14,Minas,070,14070
+Córdoba,14,Pocho,077,14077
+Córdoba,14,Presidente Roque Sáenz Peña,084,14084
+Córdoba,14,Punilla,091,14091
+Córdoba,14,Río Cuarto,098,14098
+Córdoba,14,Río Primero,105,14105
+Córdoba,14,Río Seco,112,14112
+Córdoba,14,Río Segundo,119,14119
+Córdoba,14,San Alberto,126,14126
+Córdoba,14,San Javier,133,14133
+Córdoba,14,San Justo,140,14140
+Córdoba,14,Santa María,147,14147
+Córdoba,14,Sobremonte,154,14154
+Córdoba,14,Tercero Arriba,161,14161
+Córdoba,14,Totoral,168,14168
+Córdoba,14,Tulumba,175,14175
+Córdoba,14,Unión,182,14182
+Corrientes,18,Bella Vista,007,18007
+Corrientes,18,Berón de Astrada,014,18014
+Corrientes,18,Capital,021,18021
+Corrientes,18,Concepción,028,18028
+Corrientes,18,Curuzú Cuatiá,035,18035
+Corrientes,18,Empedrado,042,18042
+Corrientes,18,Esquina,049,18049
+Corrientes,18,General Alvear,056,18056
+Corrientes,18,General Paz,063,18063
+Corrientes,18,Goya,070,18070
+Corrientes,18,Itatí,077,18077
+Corrientes,18,Ituzaingó,084,18084
+Corrientes,18,Lavalle,091,18091
+Corrientes,18,Mburucuyá,098,18098
+Corrientes,18,Mercedes,105,18105
+Corrientes,18,Monte Caseros,112,18112
+Corrientes,18,Paso de los Libres,119,18119
+Corrientes,18,Saladas,126,18126
+Corrientes,18,San Cosme,133,18133
+Corrientes,18,San Luis del Palmar,140,18140
+Corrientes,18,San Martín,147,18147
+Corrientes,18,San Miguel,154,18154
+Corrientes,18,San Roque,161,18161
+Corrientes,18,Santo Tomé,168,18168
+Corrientes,18,Sauce,175,18175
+Chaco,22,Almirante Brown,007,22007
+Chaco,22,Bermejo,014,22014
+Chaco,22,Comandante Fernández,021,22021
+Chaco,22,Chacabuco,028,22028
+Chaco,22,12 de Octubre,036,22036
+Chaco,22,2 de Abril,039,22039
+Chaco,22,Fray Justo Santa María de Oro,043,22043
+Chaco,22,General Belgrano,049,22049
+Chaco,22,General Donovan,056,22056
+Chaco,22,General Güemes,063,22063
+Chaco,22,Independencia,070,22070
+Chaco,22,Libertad,077,22077
+Chaco,22,Libertador General San Martín,084,22084
+Chaco,22,Maipú,091,22091
+Chaco,22,Mayor Luis J. Fontana,098,22098
+Chaco,22,9 de Julio,105,22105
+Chaco,22,O'Higgins,112,22112
+Chaco,22,Presidencia de la Plaza,119,22119
+Chaco,22,1º de Mayo,126,22126
+Chaco,22,Quitilipi,133,22133
+Chaco,22,San Fernando,140,22140
+Chaco,22,San Lorenzo,147,22147
+Chaco,22,Sargento Cabral,154,22154
+Chaco,22,Tapenagá,161,22161
+Chaco,22,25 de Mayo,168,22168
+Chubut,26,Biedma,007,26007
+Chubut,26,Cushamen,014,26014
+Chubut,26,Escalante,021,26021
+Chubut,26,Florentino Ameghino,028,26028
+Chubut,26,Futaleufú,035,26035
+Chubut,26,Gaiman,042,26042
+Chubut,26,Gastre,049,26049
+Chubut,26,Languiñeo,056,26056
+Chubut,26,Mártires,063,26063
+Chubut,26,Paso de Indios,070,26070
+Chubut,26,Rawson,077,26077
+Chubut,26,Río Senguer,084,26084
+Chubut,26,Sarmiento,091,26091
+Chubut,26,Tehuelches,098,26098
+Chubut,26,Telsen,105,26105
+Entre Ríos,30,Colón,008,30008
+Entre Ríos,30,Concordia,015,30015
+Entre Ríos,30,Diamante,021,30021
+Entre Ríos,30,Federación,028,30028
+Entre Ríos,30,Federal,035,30035
+Entre Ríos,30,Feliciano,042,30042
+Entre Ríos,30,Gualeguay,049,30049
+Entre Ríos,30,Gualeguaychú,056,30056
+Entre Ríos,30,Islas del Ibicuy,063,30063
+Entre Ríos,30,La Paz,070,30070
+Entre Ríos,30,Nogoyá,077,30077
+Entre Ríos,30,Paraná,084,30084
+Entre Ríos,30,San Salvador,088,30088
+Entre Ríos,30,Tala,091,30091
+Entre Ríos,30,Uruguay,098,30098
+Entre Ríos,30,Victoria,105,30105
+Entre Ríos,30,Villaguay,113,30113
+Formosa,34,Bermejo,007,34007
+Formosa,34,Formosa,014,34014
+Formosa,34,Laishi,021,34021
+Formosa,34,Matacos,028,34028
+Formosa,34,Patiño,035,34035
+Formosa,34,Pilagás,042,34042
+Formosa,34,Pilcomayo,049,34049
+Formosa,34,Pirané,056,34056
+Formosa,34,Ramón Lista,063,34063
+Jujuy,38,Cochinoca,007,38007
+Jujuy,38,El Carmen,014,38014
+Jujuy,38,Dr. Manuel Belgrano,021,38021
+Jujuy,38,Humahuaca,028,38028
+Jujuy,38,Ledesma,035,38035
+Jujuy,38,Palpalá,042,38042
+Jujuy,38,Rinconada,049,38049
+Jujuy,38,San Antonio,056,38056
+Jujuy,38,San Pedro,063,38063
+Jujuy,38,Santa Bárbara,070,38070
+Jujuy,38,Santa Catalina,077,38077
+Jujuy,38,Susques,084,38084
+Jujuy,38,Tilcara,094,38094
+Jujuy,38,Tumbaya,098,38098
+Jujuy,38,Valle Grande,105,38105
+Jujuy,38,Yavi,112,38112
+La Pampa,42,Atreucó,007,42007
+La Pampa,42,Caleu Caleu,014,42014
+La Pampa,42,Capital,021,42021
+La Pampa,42,Catriló,028,42028
+La Pampa,42,Conhelo,035,42035
+La Pampa,42,Curacó,042,42042
+La Pampa,42,Chalileo,049,42049
+La Pampa,42,Chapaleufú,056,42056
+La Pampa,42,Chical Co,063,42063
+La Pampa,42,Guatraché,070,42070
+La Pampa,42,Hucal,077,42077
+La Pampa,42,Lihuel Calel,084,42084
+La Pampa,42,Limay Mahuida,091,42091
+La Pampa,42,Loventué,098,42098
+La Pampa,42,Maracó,105,42105
+La Pampa,42,Puelén,112,42112
+La Pampa,42,Quemú Quemú,119,42119
+La Pampa,42,Rancul,126,42126
+La Pampa,42,Realicó,133,42133
+La Pampa,42,Toay,140,42140
+La Pampa,42,Trenel,147,42147
+La Pampa,42,Utracán,154,42154
+La Rioja,46,Arauco,007,46007
+La Rioja,46,Capital,014,46014
+La Rioja,46,Castro Barros,021,46021
+La Rioja,46,Coronel Felipe Varela,028,46028
+La Rioja,46,Chamical,035,46035
+La Rioja,46,Chilecito,042,46042
+La Rioja,46,Famatina,049,46049
+La Rioja,46,General Ángel V. Peñaloza,056,46056
+La Rioja,46,General Belgrano,063,46063
+La Rioja,46,General Juan Facundo Quiroga,070,46070
+La Rioja,46,General Lamadrid,077,46077
+La Rioja,46,General Ocampo,084,46084
+La Rioja,46,General San Martín,091,46091
+La Rioja,46,Vinchina,098,46098
+La Rioja,46,Independencia,105,46105
+La Rioja,46,Rosario Vera Peñaloza,112,46112
+La Rioja,46,San Blas de los Sauces,119,46119
+La Rioja,46,Sanagasta,126,46126
+Mendoza,50,Capital,007,50007
+Mendoza,50,General Alvear,014,50014
+Mendoza,50,Godoy Cruz,021,50021
+Mendoza,50,Guaymallén,028,50028
+Mendoza,50,Junín,035,50035
+Mendoza,50,La Paz,042,50042
+Mendoza,50,Las Heras,049,50049
+Mendoza,50,Lavalle,056,50056
+Mendoza,50,Luján de Cuyo,063,50063
+Mendoza,50,Maipú,070,50070
+Mendoza,50,Malargüe,077,50077
+Mendoza,50,Rivadavia,084,50084
+Mendoza,50,San Carlos,091,50091
+Mendoza,50,San Martín,098,50098
+Mendoza,50,San Rafael,105,50105
+Mendoza,50,Santa Rosa,112,50112
+Mendoza,50,Tunuyán,119,50119
+Mendoza,50,Tupungato,126,50126
+Misiones,54,Apóstoles,007,54007
+Misiones,54,Cainguás,014,54014
+Misiones,54,Candelaria,021,54021
+Misiones,54,Capital,028,54028
+Misiones,54,Concepción,035,54035
+Misiones,54,Eldorado,042,54042
+Misiones,54,General Manuel Belgrano,049,54049
+Misiones,54,Guaraní,056,54056
+Misiones,54,Iguazú,063,54063
+Misiones,54,Leandro N. Alem,070,54070
+Misiones,54,Libertador General San Martín,077,54077
+Misiones,54,Montecarlo,084,54084
+Misiones,54,Oberá,091,54091
+Misiones,54,San Ignacio,098,54098
+Misiones,54,San Javier,105,54105
+Misiones,54,San Pedro,112,54112
+Misiones,54,25 de Mayo,119,54119
+Neuquén,58,Aluminé,007,58007
+Neuquén,58,Añelo,014,58014
+Neuquén,58,Catán Lil,021,58021
+Neuquén,58,Collón Curá,028,58028
+Neuquén,58,Confluencia,035,58035
+Neuquén,58,Chos Malal,042,58042
+Neuquén,58,Huiliches,049,58049
+Neuquén,58,Lácar,056,58056
+Neuquén,58,Loncopué,063,58063
+Neuquén,58,Los Lagos,070,58070
+Neuquén,58,Minas,077,58077
+Neuquén,58,Ñorquín,084,58084
+Neuquén,58,Pehuenches,091,58091
+Neuquén,58,Picún Leufú,098,58098
+Neuquén,58,Picunches,105,58105
+Neuquén,58,Zapala,112,58112
+Río Negro,62,Adolfo Alsina,007,62007
+Río Negro,62,Avellaneda,014,62014
+Río Negro,62,Bariloche,021,62021
+Río Negro,62,Conesa,028,62028
+Río Negro,62,El Cuy,035,62035
+Río Negro,62,General Roca,042,62042
+Río Negro,62,9 de Julio,049,62049
+Río Negro,62,Ñorquincó,056,62056
+Río Negro,62,Pichi Mahuida,063,62063
+Río Negro,62,Pilcaniyeu,070,62070
+Río Negro,62,San Antonio,077,62077
+Río Negro,62,Valcheta,084,62084
+Río Negro,62,25 de Mayo,091,62091
+Salta,66,Anta,007,66007
+Salta,66,Cachi,014,66014
+Salta,66,Cafayate,021,66021
+Salta,66,Capital,028,66028
+Salta,66,Cerrillos,035,66035
+Salta,66,Chicoana,042,66042
+Salta,66,General Güemes,049,66049
+Salta,66,General José de San Martín,056,66056
+Salta,66,Guachipas,063,66063
+Salta,66,Iruya,070,66070
+Salta,66,La Caldera,077,66077
+Salta,66,La Candelaria,084,66084
+Salta,66,La Poma,091,66091
+Salta,66,La Viña,098,66098
+Salta,66,Los Andes,105,66105
+Salta,66,Metán,112,66112
+Salta,66,Molinos,119,66119
+Salta,66,Orán,126,66126
+Salta,66,Rivadavia,133,66133
+Salta,66,Rosario de la Frontera,140,66140
+Salta,66,Rosario de Lerma,147,66147
+Salta,66,San Carlos,154,66154
+Salta,66,Santa Victoria,161,66161
+San Juan,70,Albardón,007,70007
+San Juan,70,Angaco,014,70014
+San Juan,70,Calingasta,021,70021
+San Juan,70,Capital,028,70028
+San Juan,70,Caucete,035,70035
+San Juan,70,Chimbas,042,70042
+San Juan,70,Iglesia,049,70049
+San Juan,70,Jáchal,056,70056
+San Juan,70,9 de Julio,063,70063
+San Juan,70,Pocito,070,70070
+San Juan,70,Rawson,077,70077
+San Juan,70,Rivadavia,084,70084
+San Juan,70,San Martín,091,70091
+San Juan,70,Santa Lucía,098,70098
+San Juan,70,Sarmiento,105,70105
+San Juan,70,Ullum,112,70112
+San Juan,70,Valle Fértil,119,70119
+San Juan,70,25 de Mayo,126,70126
+San Juan,70,Zonda,133,70133
+San Luis,74,Ayacucho,007,74007
+San Luis,74,Belgrano,014,74014
+San Luis,74,Coronel Pringles,021,74021
+San Luis,74,Chacabuco,028,74028
+San Luis,74,General Pedernera,035,74035
+San Luis,74,Gobernador Dupuy,042,74042
+San Luis,74,Junín,049,74049
+San Luis,74,La Capital,056,74056
+San Luis,74,Libertador General San Martín,063,74063
+Santa Cruz,78,Corpen Aike,007,78007
+Santa Cruz,78,Deseado,014,78014
+Santa Cruz,78,Güer Aike,021,78021
+Santa Cruz,78,Lago Argentino,028,78028
+Santa Cruz,78,Lago Buenos Aires,035,78035
+Santa Cruz,78,Magallanes,042,78042
+Santa Cruz,78,Río Chico,049,78049
+Santa Fe,82,Belgrano,007,82007
+Santa Fe,82,Caseros,014,82014
+Santa Fe,82,Castellanos,021,82021
+Santa Fe,82,Constitución,028,82028
+Santa Fe,82,Garay,035,82035
+Santa Fe,82,General López,042,82042
+Santa Fe,82,General Obligado,049,82049
+Santa Fe,82,Iriondo,056,82056
+Santa Fe,82,La Capital,063,82063
+Santa Fe,82,Las Colonias,070,82070
+Santa Fe,82,9 de Julio,077,82077
+Santa Fe,82,Rosario,084,82084
+Santa Fe,82,San Cristóbal,091,82091
+Santa Fe,82,San Javier,098,82098
+Santa Fe,82,San Jerónimo,105,82105
+Santa Fe,82,San Justo,112,82112
+Santa Fe,82,San Lorenzo,119,82119
+Santa Fe,82,San Martín,126,82126
+Santa Fe,82,Vera,133,82133
+Santiago del Estero,86,Aguirre,007,86007
+Santiago del Estero,86,Alberdi,014,86014
+Santiago del Estero,86,Atamisqui,021,86021
+Santiago del Estero,86,Avellaneda,028,86028
+Santiago del Estero,86,Banda,035,86035
+Santiago del Estero,86,Belgrano,042,86042
+Santiago del Estero,86,Capital,049,86049
+Santiago del Estero,86,Copo,056,86056
+Santiago del Estero,86,Choya,063,86063
+Santiago del Estero,86,Figueroa,070,86070
+Santiago del Estero,86,General Taboada,077,86077
+Santiago del Estero,86,Guasayán,084,86084
+Santiago del Estero,86,Jiménez,091,86091
+Santiago del Estero,86,Juan F. Ibarra,098,86098
+Santiago del Estero,86,Loreto,105,86105
+Santiago del Estero,86,Mitre,112,86112
+Santiago del Estero,86,Moreno,119,86119
+Santiago del Estero,86,Ojo de Agua,126,86126
+Santiago del Estero,86,Pellegrini,133,86133
+Santiago del Estero,86,Quebrachos,140,86140
+Santiago del Estero,86,Río Hondo,147,86147
+Santiago del Estero,86,Rivadavia,154,86154
+Santiago del Estero,86,Robles,161,86161
+Santiago del Estero,86,Salavina,168,86168
+Santiago del Estero,86,San Martín,175,86175
+Santiago del Estero,86,Sarmiento,182,86182
+Santiago del Estero,86,Silípica,189,86189
+Tucumán,90,Burruyacú,007,90007
+Tucumán,90,Cruz Alta,014,90014
+Tucumán,90,Chicligasta,021,90021
+Tucumán,90,Famaillá,028,90028
+Tucumán,90,Graneros,035,90035
+Tucumán,90,Juan B. Alberdi,042,90042
+Tucumán,90,La Cocha,049,90049
+Tucumán,90,Leales,056,90056
+Tucumán,90,Lules,063,90063
+Tucumán,90,Monteros,070,90070
+Tucumán,90,Río Chico,077,90077
+Tucumán,90,Capital,084,90084
+Tucumán,90,Simoca,091,90091
+Tucumán,90,Tafí del Valle,098,90098
+Tucumán,90,Tafí Viejo,105,90105
+Tucumán,90,Trancas,112,90112
+Tucumán,90,Yerba Buena,119,90119
+"Tierra del Fuego, Antártida e Islas del Atlántico Sur",94,Río Grande,007,94007
+"Tierra del Fuego, Antártida e Islas del Atlántico Sur",94,Ushuaia,014,94014
+"Tierra del Fuego, Antártida e Islas del Atlántico Sur",94,Islas del Atlántico Sur,021,94021
+"Tierra del Fuego, Antártida e Islas del Atlántico Sur",94,Antártida Argentina,028,94028

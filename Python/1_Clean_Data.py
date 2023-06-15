@@ -7,6 +7,13 @@ import os
 import sys 
 import glob
 
+# insert this new path 
+sys.path.insert(1, './fct/')
+
+# import swap_provinces function
+from swap_provinces import swap_provinces
+
+# input and output file names and paths 
 raw_files = glob.glob('./Data/raw/*')
 processed_files = './Data/processed/'
 input_file = processed_files + 'processed_cases.csv'
@@ -26,6 +33,13 @@ df_data.loc[filt_swap,'evento_nombre'] = df_aux.loc[filt_swap,'semanas_epidemiol
 df_data = df_data.replace('Dengue ','Dengue')
 # and also renames Zika cases
 df_data = df_data.replace('Enfermedad por Virus del Zika','Zika')
+
+# fixing provinces names and codes 
+
+# swapping province names and ids when wrong
+df_data = swap_provinces(df_data)
+
+# saving the final result 
 
 # check for processed files directory
 if not os.path.exists(processed_files):
