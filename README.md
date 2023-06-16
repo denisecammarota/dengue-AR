@@ -26,14 +26,16 @@ project/
 ### How to cite this repository
 I would appreciate giving credit to this repository should you use it. If want to cite it, you can do so as:
 
+```
 @software{dengueAR,
   author = {Cammarota, Denise},
   title = {dengue-AR},
   year = {2023},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/charlespwd/project-title}}
+  howpublished = {\url{https://github.com/denisecammarota/dengue-AR}}
 }
+```
 
 ### Contact 
 If you have any doubt about the use of this repository, as well as any bugs, feel free to open an issue here on Github, or send an email at: denisescammarota@gmail.com. 
