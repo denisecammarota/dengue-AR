@@ -1,5 +1,5 @@
 departamento_id,departamento_nombre,provincia_id,provincia_nombre,año,semanas_epidemiologicas,evento_nombre,grupo_edad_id,grupo_edad_desc,cantidad_casos
-427,La Matanza,6,Buenos Aires,2018,11,Zika,11,Mayor o igual de 65 anos,1.0
+427,La Matanza,06,Buenos Aires,2018,11,Zika,11,Mayor o igual de 65 anos,1.0
 28,Capital,66,Salta,2018,23,Zika,10,De 45 a 64 anos,1.0
 56,Grl. José de San Martín,66,Salta,2018,10,Zika,10,De 35 a 44 anos,1.0
 56,Grl. José de San Martín,66,Salta,2018,11,Zika,9,De 25 a 34 anos,1.0
@@ -33,7 +33,7 @@ departamento_id,departamento_nombre,provincia_id,provincia_nombre,año,semanas_e
 126,Orán,66,Salta,2018,22,Zika,6,De 10 a 14 anos,1.0
 126,Orán,66,Salta,2018,23,Zika,7,De 15 a 19 anos,1.0
 126,Orán,66,Salta,2018,23,Zika,9,De 25 a 34 anos,1.0
-427,La Matanza,6,Buenos Aires,2018,11,Zika,11,Mayor o igual de 65 años,1.0
+427,La Matanza,06,Buenos Aires,2018,11,Zika,11,Mayor o igual de 65 años,1.0
 28,Capital,66,Salta,2018,23,Zika,10,De 45 a 64 años,1.0
 56,Grl. José de San Martín,66,Salta,2018,10,Zika,10,De 35 a 44 años,1.0
 56,Grl. José de San Martín,66,Salta,2018,11,Zika,9,De 25 a 34 años,1.0

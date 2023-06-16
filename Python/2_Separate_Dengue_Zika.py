@@ -15,7 +15,7 @@ dengue_file = processed_files + 'dengue_cases.csv'
 zika_file = processed_files + 'zika_cases.csv'
 
 # read total data of cases
-df_data = pd.read_csv(input_file)
+df_data = pd.read_csv(input_file, dtype={'provincia_id': str, 'departamento_id':str})
 
 # separate dengue cases
 df_dengue = df_data[df_data['evento_nombre'] == 'Dengue']
